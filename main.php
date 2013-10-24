@@ -1,3 +1,4 @@
 <?php
-     echo "Teste Git";
+$_ge['usuario'];
+     echo "Bem vindo usuario ".$_get['usuario'];
 ?>
